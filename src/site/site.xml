@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+
+    <!--<skin>
+        <groupId>it.unisa.dia.gas</groupId>
+        <artifactId>jpbc-site-skin</artifactId>
+        <version>1.1.0</version>
+    </skin>
+
+    --><body>
+
+        <!--<links>
+            <item name="PBC" href="http://crypto.stanford.edu/pbc/"/>
+            <item name="SF Project page" href="http://sourceforge.net/projects/jpbc/"/>
+            <item name="Piwik" href="http://sourceforge.net/apps/piwik/jpbc/index.php?module=CoreHome&amp;action=index&amp;idSite=2&amp;period=week&amp;date=today"/>
+        </links>
+
+        <menu name="jPBC Library">
+            <item name="Introduction" href="index.html"/>
+            <item name="Download" href="download.html"/>
+            <item name="Build HowTo" href="buildHowto.html"/>
+            <item name="Contact" href="contact.html"/>
+            <item name="Benchmark" href="benchmark.html"/>
+            <item name="Android" href="/docs/android.html"/>
+            <item name="Who Uses jPBC?" href="who.html"/>
+        </menu>
+
+        <menu name="Documentation">
+
+            <item name="Pairing" href="/docs/pairing.html">
+                <item name="Initializing" href="/docs/pairing.html#initializing"/>
+                <item name="Applying" href="/docs/pairing.html#applying"/>
+            </item>
+
+            <item name="Field" href="/docs/field.html"/>
+
+            <item name="Element" href="/docs/element.html">
+                <item name="Initializing" href="/docs/element.html#initializing"/>
+                <item name="Assigning" href="/docs/element.html#assigning"/>
+                <item name="Arithmetic" href="/docs/element.html#arithmetic"/>
+                <item name="Exponentiating" href="/docs/element.html#exponentiating"/>
+                <item name="Comparing" href="/docs/element.html#comparing"/>
+                <item name="Import/Export" href="/docs/element.html#io"/>
+                <item name="Immutable" href="/docs/element.html#immutable"/>
+            </item>
+
+            <item name="Curve Generators" href="/docs/curvegenerator.html">
+                <item name="Type A" href="/docs/curvegenerator.html#TypeA"/>
+                <item name="Type A1" href="/docs/curvegenerator.html#TypeA1"/>
+                <item name="Type D" href="/docs/curvegenerator.html#TypeD"/>
+                <item name="Type E" href="/docs/curvegenerator.html#TypeE"/>
+                <item name="Type F" href="/docs/curvegenerator.html#TypeF"/>
+                <item name="Type G" href="/docs/curvegenerator.html#TypeG"/>
+            </item>
+
+            <item name="PBC Wrapper" href="/docs/pbcwrapper.html"/>
+        </menu>
+
+        <menu name="Crypto">
+            <item name="Schemes" href="/schemes/schemes.html">
+                <item name="BLS Signature" href="/schemes/bls.html"/>
+                <item name="HVE [IP08]" href="/schemes/hve_ip08.html"/>
+                <item name="AHIBE [DIP10]" href="/schemes/ahibe_dip10.html"/>
+                <item name="Untraceable Tags [DBP09]" href="/schemes/ut_bdp10.html"/>
+            </item>
+        </menu> -->
+        
+        <menu ref="modules" />
+        
+        
+        ${reports}
+    </body>
+
+</project>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<configuration>
+	<initial-balance type="java.lang.Double">100</initial-balance>
+	<validity-time type="java.lang.Integer">20000</validity-time>
+	<serial-number-max type="java.lang.Integer">999999999</serial-number-max>
+	<number-deploy-keys type="java.lang.Integer">10</number-deploy-keys>
+	<curves>
+		<curve type="java.lang.String">d840347-175-161.param</curve>
+	</curves>
+</configuration>
